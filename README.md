@@ -1,1 +1,3 @@
 # DoSomeFunnyStuffs
+
+Things I can do with my code here. Everything is simple...
